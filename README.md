@@ -114,7 +114,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
