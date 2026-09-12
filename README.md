@@ -84,7 +84,7 @@ During this course (G4 GenAI), I learned the principles of Generative AI enginee
   Sentinel AI is a multi-modal cognitive crime scene investigator dashboard. It ingests witness statement text files, audio recordings, and CCTV camera footage. The system coordinates role-specific sub-agents (Evidence Analyzer, Timeline Builder, Contradiction Detector, Suspect Reasoner) using a stateful LangGraph orchestrator to build timelines, flag logical discrepancies, and reason about motives, means, and opportunities.
 </p>
 <p>
-  <a href="Sentinel_AI_Multi_Agent_Crime_Investigation_System.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="[Sentinel_AI_Multi_Agent_Crime_Investigation_System.docx](https://github.com/jay2244-byte/Sentinel_AI_MACIS/blob/main/Suretrust%20Project%20Document.pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
